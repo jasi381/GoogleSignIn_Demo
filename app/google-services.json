@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668991564709",
+    "project_id": "signindemo-585c3",
+    "storage_bucket": "signindemo-585c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668991564709:android:fd06febb6344df6387964c",
+        "android_client_info": {
+          "package_name": "com.jasmeet.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668991564709-jmvnfnoshe50gse9p0lrrgth1s3mc0go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasmeet.googlesignindemo",
+            "certificate_hash": "650eb1c6254fa375c9ae68cf409776aedcc7843f"
+          }
+        },
+        {
+          "client_id": "668991564709-vjockk0e4uc7ip7239n9fsac314g1bfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCNcycgMiIx3cszzQs_8g2dEI10jBAQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668991564709-vjockk0e4uc7ip7239n9fsac314g1bfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

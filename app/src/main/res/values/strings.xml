@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignIn Demo</string>
+    <string name="default_web_client_id">668991564709-vjockk0e4uc7ip7239n9fsac314g1bfo.apps.googleusercontent.com</string>
+</resources>
